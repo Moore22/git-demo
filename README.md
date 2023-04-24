@@ -2,6 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-hipsum isn't actually working so
+1. index.html
